@@ -34,5 +34,5 @@ Para os arquivos JS a mesma coisa, editar o arquivo js/scripts/main.js, o automa
 
 ## Créditos
 
-Will Moreira
+Will Carvalho Moreira
 https://willmoreira.com.br/
