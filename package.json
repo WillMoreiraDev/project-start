@@ -14,8 +14,10 @@
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-concat": "^2.6.1",
+    "gulp-htmlhint": "^4.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
+    "htmlhint-stylish": "^1.0.3",
     "jquery": "^3.4.1",
     "node-sass": "^4.12.0"
   },
